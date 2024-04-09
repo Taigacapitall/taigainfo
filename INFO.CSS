@@ -1,0 +1,201 @@
+* Réinitialisation des styles par défaut */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+
+  }
+
+header{
+    background-color: black;
+    height: 5%;
+    padding: 10px 0;
+}
+h1 {
+    font-size:medium;
+    margin-left: 10px;
+}
+.logo{
+    text-align: left;
+    color: #ffffff;
+
+}
+.impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red
+}
+
+section{
+    block-size: 50%;
+    display: inline-block;
+}
+
+.image_richesse{
+    margin-left: 100px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.Photo{
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.Photo_start_up{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+
+p{
+    text-align: justify;
+    padding: 10px;
+}
+.name{
+    font-weight: bold;
+}
+
+.introduction{
+    width: 50%;
+    background-color:rgb(230, 222, 222);
+    border-radius: 10px;
+}
+
+
+
+h3{
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.container-secand{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.histoire{
+    background-color:rgb(230, 222, 222);
+    border-radius: 10px;
+    text-align: justify;
+    width: 100%;
+    padding: 10px;
+}
+
+.container-thrid {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section{
+    block-size: 50%;
+    display: inline-block;
+}
+
+.description{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgb(230, 222, 222);
+    border-radius: 10px;
+    text-align: justify;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.immobilier {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgb(230, 222, 222);
+    border-radius: 10px;
+    text-align: justify;
+    width: 50%;
+    padding: 10px; 
+    margin-bottom: 15px;
+    
+}
+.immo{
+    background-color:black;
+    width:100%;
+    max-width: 100%;
+    color: white;
+
+    
+}
+
+.PME {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgb(230, 222, 222);
+    border-radius: 10px;
+    text-align: justify;
+    width: 100%;
+    padding: 10px; 
+    margin-bottom: 15px;
+    margin-right: 50%;
+}
+
+
+.start_up {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgb(230, 222, 222);
+    border-radius: 10px;
+    text-align: justify;
+    width: 50%;
+    padding: 10px; 
+    margin-bottom: 15px;
+}
+
+
+
+.new_technologies {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgb(230, 222, 222);
+    border-radius: 10px;
+    text-align: justify;
+    width: 100%;
+    padding: 10px; 
+}
+
+.join{
+    background-color:rgb(230, 222, 222);
+    border-radius: 10px;
+    text-align: justify;
+    width: 50%;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: blue
+}
+
+footer{
+    background-color: black;
+    height: 5%;
+}
+.foot{
+    color: white;
+    text-align: center;
+}
